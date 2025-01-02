@@ -57,7 +57,7 @@ This project focuses on analyzing climate and stormrelated data to predict storm
    pip installr requirements.txt
   
 4. Run the Streamlit application:
-   streamlit run app.py
+   streamlit run storm_analysis.py
 
 5. Upload the necessary CSV files when prompted in the application.
 
